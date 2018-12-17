@@ -1,0 +1,5 @@
+				TAREAS PENDIENTES
+	- Revisar correctitud del GroupBuilder de la versión secuencial
+	- Desarrollo de la primera versión de ordenamiento intergrupo (para la reunión del 27 de Diciembre)
+	- Revisar softwares adicionales del estado del arte.
+	- Detalles
